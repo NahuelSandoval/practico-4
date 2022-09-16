@@ -37,7 +37,6 @@ display: block
     margin: 20px 30px;
     display: inline-block;
     border-radius: 2rem;
-    box-shadow: 5rem blue;
     text-align: center;
 }
 .uno{
@@ -63,4 +62,9 @@ background-color: yellow;
 }
 .ocho{
     background-color: gold;
+}
+.caja {
+    text-shadow: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
 }
